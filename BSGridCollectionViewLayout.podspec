@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   A simple grid collection view layout. Displays multiple sections as one continuous grid without any section breaks.
                        DESC
 
-  s.homepage         = "https://github.com/mikaoj/BSGridCollectionViewLayout"
+  s.homepage         = "https://github.com/antons81/BSGridCollectionViewLayout"
   s.license          = 'MIT'
   s.author           = { "Joakim Gyllstrom" => "joakim@backslashed.se" }
   s.source           = { :git => "https://github.com/antons81/BSGridCollectionViewLayout.git", :tag => s.version.to_s }
